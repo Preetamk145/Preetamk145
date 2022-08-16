@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(113, 113, 113);
+    margin: auto;
+    font-family:"Arima",sans-serif;
+   
+}
+
+nav div a{
+    text-decoration: none;
+    color: aliceblue;
+    width: 17%;
+   text-align: center;
+   padding: 1rem;
+  
+   font-size: 1.3rem;
+   
+}
+
+nav div a:hover {
+     background-color: aliceblue;
+     color:  rgb(87, 88, 89);
+}
