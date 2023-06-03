@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Preetamk
-- 👀 I’m interested in Front-end development 
+- 👀 I’m interested in Coding(Java,C++),Front-end development 
 - 🌱 I’m currently learning javascript
 - 📫 How to reach me  email preetamk1456@gmail.com
 
